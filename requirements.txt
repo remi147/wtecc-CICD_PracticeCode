@@ -20,4 +20,4 @@ pinocchio==0.4.3
 coverage==6.3.2
 
 # Utilities
-httpie==3.2.1
+httpie==3.2.3
