@@ -6,7 +6,7 @@ Flask==2.1.2
 python-dotenv==0.20.0
 
 # Runtime tools
-gunicorn==20.1.0
+gunicorn==23.0.0
 honcho==1.1.0
 
 # Code quality
