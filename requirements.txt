@@ -1,5 +1,5 @@
 # Werkzeug keeps breaking Flask!
-Werkzeug==2.1.2
+Werkzeug==3.1.5
 
 # Runtime dependencies
 Flask==2.1.2
@@ -21,3 +21,4 @@ coverage==6.3.2
 
 # Utilities
 httpie==3.2.1
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
